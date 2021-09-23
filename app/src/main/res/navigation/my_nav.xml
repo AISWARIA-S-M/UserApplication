@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_nav"
+    app:startDestination="@id/cardfragment">
+
+    <fragment
+        android:id="@+id/cardfragment"
+        android:name="com.ibm.usersapplication.fragment.Cardfragment"
+        android:label="User List"
+        tools:layout="@layout/userdetaillist" >
+        <action
+            android:id="@+id/cardtopage2"
+            app:destination="@id/page2Fragment"
+            app:popUpToInclusive="true">
+
+        </action>
+
+    </fragment>
+    <fragment
+        android:id="@+id/page2Fragment"
+        android:name="com.ibm.usersapplication.fragment.Page2Fragment"
+        android:label="User Details"
+        tools:layout="@layout/fragment_page2"
+        >
+        <argument
+            android:name="paramterName"
+            app:argType="com.ibm.usersapplication.model.UserDetail" />
+    </fragment>
+</navigation>

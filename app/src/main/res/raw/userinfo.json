@@ -1,0 +1,81 @@
+{
+  "users": [
+    {
+      "id": "1087",
+      "name": "Nitesh Bolla",
+      "email": "nitesh@gmail.com",
+      "gender" : "male",
+      "contact": {
+        "mobile": "+91 0000000001",
+        "home": "00 000001",
+        "office": "00 000001"
+      }
+    },
+    {
+      "id": "1088",
+      "name": "Salim Shaikh",
+      "email": "salim@gmail.com",
+      "gender" : "male",
+      "contact": {
+        "mobile": "+91 0000000002",
+        "home": "00 000002",
+        "office": "00 000002"
+      }
+    },
+    {
+      "id": "1089",
+      "name": "Nehal",
+      "email": "nehal@gmail.com",
+      "gender" : "male",
+      "contact": {
+        "mobile": "+91 0000000003",
+        "home": "00 000003",
+        "office": "00 000003"
+      }
+    },
+    {
+      "id": "1090",
+      "name": "Pooja",
+      "email": "p@gmail.com",
+      "gender" : "female",
+      "contact": {
+        "mobile": "+91 0000000004",
+        "home": "00 000004",
+        "office": "00 000004"
+      }
+    },
+    {
+      "id": "1091",
+      "name": "Rashan",
+      "email": "rash@gmail.com",
+      "gender" : "female",
+      "contact": {
+        "mobile": "+91 0000000005",
+        "home": "00 000005",
+        "office": "00 000005"
+      }
+    },
+    {
+      "id": "1092",
+      "name": "Aiswaria",
+      "email": "aiswaria@gmail.com",
+      "gender" : "female",
+      "contact": {
+        "mobile": "+91 0000000006",
+        "home": "00 000006",
+        "office": "00 000006"
+      }
+    },
+    {
+      "id": "1093",
+      "name": "Anantha Lakshmi",
+      "email": "anantha@gmail.com",
+      "gender" : "female",
+      "contact": {
+        "mobile": "+91 0000000007",
+        "home": "00 000007",
+        "office": "00 000007"
+      }
+    }
+  ]
+}

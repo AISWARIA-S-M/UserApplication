@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <dimen name="text_size">25sp</dimen>
+    <dimen name="padding">15dp</dimen>
+    <dimen name="paddingTop">20dp</dimen>
+    <dimen name="margin_left">100dp</dimen>
+    <dimen name="card_and_margin">5dp</dimen>
+</resources>
